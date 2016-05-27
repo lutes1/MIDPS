@@ -1,0 +1,20 @@
+body{
+    
+    background-image:url(includes/texture.jpg); 
+    text-align: center;
+    
+}
+legend {
+    margin-left: 30px;    
+}
+.header{
+   font-family:Lucida Sans Unicode;
+    color:red;
+    margin-top:20px;
+   
+}
+.user{
+    margin-bottom:50px;
+    
+    margin-top:20px;
+}
