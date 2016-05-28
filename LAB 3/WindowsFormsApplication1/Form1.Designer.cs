@@ -69,7 +69,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(37, 23);
             this.button3.TabIndex = 3;
-            this.button3.Text = "<--";
+            this.button3.Text = "BSPS";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -133,7 +133,7 @@
             // button10
             // 
             this.button10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.button10.Location = new System.Drawing.Point(3, 205);
+            this.button10.Location = new System.Drawing.Point(46, 205);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(37, 23);
             this.button10.TabIndex = 10;
@@ -144,7 +144,7 @@
             // button11
             // 
             this.button11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.button11.Location = new System.Drawing.Point(46, 205);
+            this.button11.Location = new System.Drawing.Point(3, 205);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(37, 23);
             this.button11.TabIndex = 11;
@@ -258,7 +258,7 @@
             this.button21.Name = "button21";
             this.button21.Size = new System.Drawing.Size(37, 23);
             this.button21.TabIndex = 21;
-            this.button21.Text = "*";
+            this.button21.Text = "x";
             this.button21.UseVisualStyleBackColor = false;
             this.button21.Click += new System.EventHandler(this.button21_Click);
             // 
@@ -269,7 +269,7 @@
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(37, 23);
             this.button22.TabIndex = 22;
-            this.button22.Text = "/";
+            this.button22.Text = "÷";
             this.button22.UseVisualStyleBackColor = false;
             this.button22.Click += new System.EventHandler(this.button22_Click);
             // 
@@ -320,7 +320,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(172, 246);
+            this.ClientSize = new System.Drawing.Size(172, 230);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button24);

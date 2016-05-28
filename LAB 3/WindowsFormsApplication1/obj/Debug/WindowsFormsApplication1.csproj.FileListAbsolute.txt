@@ -37,3 +37,12 @@ C:\Users\Pete\Desktop\labs MIDPS\midps-lab\LAB 3\WindowsFormsApplication1\bin\De
 C:\Users\Pete\Desktop\labs MIDPS\midps-lab\LAB 3\WindowsFormsApplication1\bin\Debug\Calculator.pdb
 C:\Users\Pete\Desktop\labs MIDPS\midps-lab\LAB 3\WindowsFormsApplication1\obj\Debug\Calculator.exe
 C:\Users\Pete\Desktop\labs MIDPS\midps-lab\LAB 3\WindowsFormsApplication1\obj\Debug\Calculator.pdb
+C:\Users\Pete\Desktop\labMIDPS2\LAB 3\WindowsFormsApplication1\bin\Debug\Calculator.exe.config
+C:\Users\Pete\Desktop\labMIDPS2\LAB 3\WindowsFormsApplication1\obj\Debug\Calculator.exe
+C:\Users\Pete\Desktop\labMIDPS2\LAB 3\WindowsFormsApplication1\obj\Debug\Calculator.pdb
+C:\Users\Pete\Desktop\labMIDPS2\LAB 3\WindowsFormsApplication1\bin\Debug\Calculator.exe
+C:\Users\Pete\Desktop\labMIDPS2\LAB 3\WindowsFormsApplication1\bin\Debug\Calculator.pdb
+C:\Users\Pete\Desktop\labMIDPS2\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\labMIDPS2\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pete\Desktop\labMIDPS2\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pete\Desktop\labMIDPS2\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

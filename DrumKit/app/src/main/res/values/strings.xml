@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drum Kit</string>
+    <string name="long_hat">LHat</string>
+    <string name="hat">hat</string>
+    <string name="kick">kick</string>
+    <string name="clap">clap</string>
+    <string name="qsnare">QSnare</string>
+    <string name="snare">Snare</string>
+</resources>
