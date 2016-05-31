@@ -18,9 +18,10 @@
 
         <Button
             android:layout_width="150dp"
+            android:background="@drawable/round_button"
             android:layout_height="150dp"
             android:onClick="play_hat"
-            android:text="@string/hat"
+            android:text="HAT"
             android:id="@+id/hat"
             android:layout_row="0"
             android:layout_column="0"
@@ -29,6 +30,7 @@
         <Button
             android:layout_width="150dp"
             android:layout_height="150dp"
+            android:background="@drawable/round_button"
             android:onClick="play_kick"
             android:text="@string/kick"
             android:id="@+id/kick"
@@ -40,6 +42,7 @@
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:onClick="play_long_hat"
+            android:background="@drawable/round_button"
             android:text="@string/long_hat"
             android:id="@+id/long_hat"
             android:layout_row="0"
@@ -51,6 +54,7 @@
             android:layout_height="150dp"
             android:onClick="play_qsnare"
             android:text="@string/qsnare"
+            android:background="@drawable/round_button"
             android:id="@+id/quiet_snare"
             android:layout_row="2"
             android:layout_column="0"
@@ -59,6 +63,7 @@
         <Button
             android:layout_width="150dp"
             android:layout_height="150dp"
+            android:background="@drawable/round_button"
             android:text="@string/clap"
             android:onClick="play_clap"
             android:id="@+id/clap"
@@ -70,6 +75,7 @@
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:onClick="play_snare"
+            android:background="@drawable/round_button"
             android:text="@string/snare"
             android:id="@+id/snare"
             android:layout_row="2"
